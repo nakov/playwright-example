@@ -11,6 +11,10 @@ git clone https://github.com/nakov/playwright-example
 ## Running the Example
 
 ```
+cd playwright-example
+```
+
+```
 npm install
 ```
 
