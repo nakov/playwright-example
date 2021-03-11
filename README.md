@@ -5,7 +5,7 @@ This example demonstrates how to setup and run the `Playwright` test automation 
 ## Installation
 
 ```
-https://github.com/nakov/playwright-example
+git clone https://github.com/nakov/playwright-example
 ```
 
 ## Running the Example
